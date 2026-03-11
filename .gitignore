@@ -1,0 +1,28 @@
+# 忽略无用的文件夹
+build/
+node_modules/
+temp/
+log/
+data/
+.vscode/
+.idea/
+.history/
+
+
+# 忽略大文件与指定类型文件
+*.pdf
+*.zip
+*.rar
+*.7z
+*.exe
+*.class
+*.dmg
+*.pkg
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.gif
+Thumbs.db
